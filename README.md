@@ -45,3 +45,11 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/> </a> 
 </p>
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/abdulrhmanhossam/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrhmanhossam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/abdulrhmanhossam/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhmanhossam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br/>
+<br/>
