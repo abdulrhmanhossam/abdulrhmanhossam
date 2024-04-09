@@ -26,12 +26,12 @@
 
 - 📫 How to reach me **AbdulrahmanHossam@email.com**
 
-<h3 align="left">Connect with me: +(20) 1004591659</h3>
+<h4 align="left">Connect with me: +(20) 1004591659</h3>
 
 <p align="left">
   
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠 &nbsp;Tech Stack</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="45" alt="dot-net logo" /> </a>
@@ -47,11 +47,10 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/> </a> 
 </p>
 
-## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/abdulrhmanhossam/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrhmanhossam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/abdulrhmanhossam/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhmanhossam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrhmanhossam&show_icons=true&locale=en&layout=compact&theme=radical&color=9932cc" alt="most used languages" />
+
 
 <br/>
 <br/>
