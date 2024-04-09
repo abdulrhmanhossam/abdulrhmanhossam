@@ -26,9 +26,7 @@
 
 - 📫 How to reach me **AbdulrahmanHossam@email.com**
 
--    Connect with me: +(20) 1004591659**
-
-<h3 align="left"></h3>
+-    Connect with me: (+20) 1004591659
 
 <p align="left">
   
