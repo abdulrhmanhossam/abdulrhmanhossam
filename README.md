@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Backend Development Using .NET**
 
-- 📫 How to reach me **abdulrahmn398@outlookcom**
+- 📫 How to reach me **abdulrahmn398@outlook.com**
 
 -    Connect with me: (+20) 1004591659
 
