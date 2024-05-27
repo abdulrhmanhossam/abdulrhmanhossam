@@ -48,8 +48,22 @@
 
 
   <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrhmanhossam&show_icons=true&locale=en&layout=compact&theme=radical&color=9932cc" alt="most used languages" />
+  <h3 align="left">📊 GitHub Stats</h3>
+  
+![](https://github-readme-stats.vercel.app/api?username=abdulrhmanhossam&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrhmanhossam&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhmanhossam&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+![](https://github-profile-trophy.vercel.app/?username=abdulrhmanhossam&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<h3 align="left">🔝 Top Contributed Repo</h3>
+
+![](https://github-contributor-stats.vercel.app/api?username=abdulrhmanhossam&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=abdulrhmanhossam&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <br/>
 <br/>
