@@ -1,10 +1,7 @@
-
-###
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulrhmanhossam.abdulrhmanhossam&"  />
 </div>
 
-###
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=;Hi%20👋,%20I'm%20Abdulrahman%20Hossam%20;Sofware Enginner%20.NET%20Angular%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=9932cc&vCenter=true&size=22">
