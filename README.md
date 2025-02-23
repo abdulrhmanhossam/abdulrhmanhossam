@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrhmanhossam&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanhossam" /> </p>
 
-- 💬 Ask me about **.Net Core | Angular**
+- 💬 Ask me about **.Net Core**
 
 - 📫 How to reach me **abdulrahmn398@outlook.com**
 
