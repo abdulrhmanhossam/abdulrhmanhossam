@@ -15,8 +15,25 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrhmanhossam&show_icons=true&locale=en&layout=compact" alt="abdulrhmanhossam" /></p>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=abdulrhmanhossam&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrhmanhossam&theme=dark&hide_border=false" /> 
+</td>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrhmanhossam&show_icons=true&locale=en" alt="abdulrhmanhossam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrhmanhossam&" alt="abdulrhmanhossam" /></p>
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdulrhmanhossam&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+      
+<!--- stats (end) -->
